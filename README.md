@@ -65,9 +65,10 @@ This stage began with getting to know the dataset and checking for any data qual
 ☀️ Casualties Distribution by light condtion: 73% of casulties take place in daylight condtion
 
 ## Recommendations based on the Analysis
-By comparing casualty trends between the current and previous years on a monthly basis, the dashboard identifies critical periods of October and November. The road safety measure by the traffic police and other stakeholders must be active and focused during these high-risk periods.
-Car drivers form bulk of the casualties so they must be targeted for awareness camps and strict monitoring, periodic check-ups on safe driving.
-Extra safety measures should be placed Single Carriageway roads and they must be upgraded to double lane wherever possible.
-Understanding casualty distribution based on different road surface conditions helps pinpoint areas where road maintenance and surface improvements are essential.
-Urban areas should be targeted for interventions to improve road safety in specific and during daytime.
+- By comparing casualty trends between the current and previous years on a monthly basis, the dashboard identifies critical periods of October and November.
+- The road safety measure by the traffic police and other stakeholders must be active and focused during these high-risk periods.
+-Car drivers form bulk of the casualties so they must be targeted for awareness camps and strict monitoring, periodic check-ups on safe driving.
+-Extra safety measures should be placed Single Carriageway roads and they must be upgraded to double lane wherever possible.
+-Understanding casualty distribution based on different road surface conditions helps pinpoint areas where road maintenance and surface improvements are essential.
+-Urban areas should be targeted for interventions to improve road safety in specific and during daytime.
 
