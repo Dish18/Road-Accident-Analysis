@@ -1,6 +1,6 @@
 # Road Accident Analysis Dashboard
 
-## LINK TO DASHBOARD 
+## Link To Dashboard
 https://drive.google.com/drive/my-drive
 
 ## Description
